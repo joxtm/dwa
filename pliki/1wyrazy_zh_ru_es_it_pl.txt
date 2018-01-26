@@ -1,6 +1,6 @@
-grass
-one sun
-one cow
-goat
-horse
-three pigs
+trawa
+jedno słońce
+jedna krowa
+koza
+koń
+trzy świnie
